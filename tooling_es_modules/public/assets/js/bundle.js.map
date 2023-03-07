@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAAAA,MAAM","sources":["webpack://tooling_es_modules/./src/index.js"],"sourcesContent":["alert(\"tubarao ti amo\");"],"names":["alert"],"sourceRoot":""}
